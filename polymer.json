@@ -1,6 +1,6 @@
 {
   "entrypoint": "index.html",
-  "shell": "bower_components/owc-core-starter-kit/owc-core-starter-kit.html",
+  "shell": "bower_components/hello-owc/hello-owc.html",
   "sources": [
     "images/**/*"
   ],
