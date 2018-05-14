@@ -5,7 +5,8 @@
     "images/**/*",
     "bower_components/owc-*/**/*.png",
     "bower_components/owc-*/**/*.wasm",
-    "bower_components/owc-*/**/*.js"
+    "bower_components/owc-*/**/*.js",
+    "bower_components/owc-*/**/*.data"
   ],
   "extraDependencies": [
     "owc-manifest.json",
