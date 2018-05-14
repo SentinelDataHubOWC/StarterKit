@@ -3,9 +3,9 @@
   "shell": "bower_components/owc-core-starter-kit/owc-core-starter-kit.html",
   "sources": [
     "images/**/*",
-    "**/*.png",
-    "**/*.wasm",
-    "**/*.js"
+    "bower_components/owc-*/**/*.png",
+    "bower_components/owc-*/**/*.wasm",
+    "bower_components/owc-*/**/*.js"
   ],
   "extraDependencies": [
     "owc-manifest.json",
