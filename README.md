@@ -5,14 +5,14 @@ The Simplest web application developed using Open Web Components
 
 
 # OWC dependencies tree
-
-└─┬ **owc-core-starter-kit**#08fc6b823e  
-  ├── **owc-core-http-manager**#e8a8b4afbe  
-  ├── **owc-core-main-menu**#606cc61944  
+```
+└─┬ **owc-core-starter-kit**#08fc6b823e   
+  ├── **owc-core-http-manager**#e8a8b4afbe   
+  ├── **owc-core-main-menu**#606cc61944   
   ├── **owc-core-utils**#5374742ab8  
   ├── **owc-core-window-manager**#c12e5ba3d3  
   └── **owc-hello**#bf7511a412  
-
+```
 
 
 # Global dependencies tree
