@@ -6,9 +6,9 @@ The Simplest web application developed using Open Web Components
 
 # DEPENDENCIES TREE
 
-├─┬ **owc-core-starter-kit**#08fc6b823e
-│ ├─┬ **owc-core-http-manager**#e8a8b4afbe
-│ │ └─┬ polymer#2.6.0
+├─┬ **owc-core-starter-kit**#08fc6b823e  
+│ ├─┬ **owc-core-http-manager**#e8a8b4afbe  
+│ │ └─┬ polymer#2.6.0  
 │ │   ├── shadycss#1.2.1
 │ │   └── webcomponentsjs#1.2.0
 │ ├─┬ **owc-core-main-menu**#606cc61944
