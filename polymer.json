@@ -2,7 +2,11 @@
   "entrypoint": "index.html",
   "shell": "bower_components/owc-core-starter-kit/owc-core-starter-kit.html",
   "sources": [
-    "images/**/*"
+    "images/**/*",
+    "bower_components/owc-*/**/*.png",
+    "bower_components/owc-*/**/*.wasm",
+    "bower_components/owc-*/**/*.js",
+    "bower_components/owc-*/**/*.data"
   ],
   "extraDependencies": [
     "owc-manifest.json",
@@ -11,15 +15,11 @@
   "lint": {
     "rules": ["polymer-2"]
   },
-  "builds": [
-    {
-      "preset": "es5-bundled"
-    },
-    {
-      "preset": "es6-bundled"
-    },
-    {
-      "preset": "es6-unbundled"
+  "builds": [{
+     "bundle": true,
+     "js": {"compile": false, "minify": true},
+     "css": {"minify": true},
+     "html": {"minify": true}
     }
   ]
 }
