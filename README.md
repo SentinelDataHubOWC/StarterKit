@@ -16,7 +16,7 @@ The Simplest web application developed using Open Web Components
 
 
 # Global dependencies tree
-
+```
 ├─┬ owc-core-starter-kit#08fc6b823e  
 │ ├─┬ owc-core-http-manager#e8a8b4afbe  
 │ │ └─┬ polymer#2.6.0  
@@ -100,3 +100,4 @@ The Simplest web application developed using Open Web Components
 │ ├── stacky#1.3.2  
 │ └── test-fixture#3.0.0  
 └── webcomponentsjs#1.2.0 (latest is 2.0.0)  
+```
