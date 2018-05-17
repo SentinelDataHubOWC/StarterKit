@@ -5,21 +5,21 @@ The Simplest web application developed using Open Web Components
 
 
 # DEPENDENCIES TREE
-```
-├─┬ owc-core-starter-kit#08fc6b823e
-│ ├─┬ owc-core-http-manager#e8a8b4afbe
+
+├─┬ **owc-core-starter-kit**#08fc6b823e
+│ ├─┬ **owc-core-http-manager**#e8a8b4afbe
 │ │ └─┬ polymer#2.6.0
 │ │   ├── shadycss#1.2.1
 │ │   └── webcomponentsjs#1.2.0
-│ ├─┬ owc-core-main-menu#606cc61944
+│ ├─┬ **owc-core-main-menu**#606cc61944
 │ │ └─┬ polymer#2.6.0
 │ │   ├── shadycss#1.2.1
 │ │   └── webcomponentsjs#1.2.0
-│ ├─┬ owc-core-utils#5374742ab8
+│ ├─┬ **owc-core-utils**#5374742ab8
 │ │ └─┬ polymer#2.6.0
 │ │   ├── shadycss#1.2.1
 │ │   └── webcomponentsjs#1.2.0
-│ ├─┬ owc-core-window-manager#c12e5ba3d3
+│ ├─┬ **owc-core-window-manager**#c12e5ba3d3
 │ │ ├─┬ iron-icons#2.1.1
 │ │ │ ├─┬ iron-icon#2.1.0
 │ │ │ │ ├─┬ iron-flex-layout#2.0.3
@@ -68,7 +68,7 @@ The Simplest web application developed using Open Web Components
 │ │ │ ├── shadycss#1.2.1
 │ │ │ └── webcomponentsjs#1.2.0
 │ │ └── underscore#1.8.3 (latest is 1.9.0)
-│ ├─┬ owc-hello#bf7511a412
+│ ├─┬ **owc-hello**#bf7511a412
 │ │ └─┬ polymer#2.6.0
 │ │   ├── shadycss#1.2.1
 │ │   └── webcomponentsjs#1.2.0
@@ -89,4 +89,3 @@ The Simplest web application developed using Open Web Components
 │ ├── stacky#1.3.2
 │ └── test-fixture#3.0.0
 └── webcomponentsjs#1.2.0 (latest is 2.0.0)
-```
