@@ -4,6 +4,16 @@ Open Web Components Starter kit
 The Simplest web application developed using Open Web Components
 
 
+# Dependencies install
+
+```
+sudo npm install -g polymer-cli
+npn install
+bower install
+owcli bower --clone-all
+```
+
+
 # OWC dependencies tree
 ```
 └─┬ owc-core-starter-kit#08fc6b823e   
